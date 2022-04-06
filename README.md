@@ -1,2 +1,2 @@
 # Real-Time-Bus-Tracker
-In this activity, you will be using the MBTA bus data to determine stops between Harvard and MIT. Then, you need to and add an animated marker on the map to highlight the bus routes.
+In this activity, MBTA bus data is used to determine stops between Harvard and MIT, and an animated marker is used on the map to highlight the bus routes.
